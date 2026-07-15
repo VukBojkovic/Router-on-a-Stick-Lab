@@ -8,10 +8,10 @@ This project demonstrates the configuration of a network topology in Cisco Packe
 ##Technologies & Protocols
 * Static IP addressing, hostname and password, VLANS, trunk port, creating subinterfaces, testing connectivity
 
-![Switch & Router Configuration](CLI.txt)
+[Switch & Router Configuration](CLI.txt)
 
 ## Verification
 After configuring the subinterfaces on the router and the trunk port on the switch, end-to-end connectivity was successfully verified. A ping test was performed and confirmed successful communication between host PCs in the HR department and the Finance department.
 
 
-![Cisco Packet Tracer File](Router-On-A-Stick.pkt)
+[Cisco Packet Tracer File](Router-On-A-Stick.pkt)
